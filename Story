@@ -5,3 +5,5 @@ opening Cutscene
 
 garages 
 ->Cafeteria
+
+---> duck incident
