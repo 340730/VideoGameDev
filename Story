@@ -1,0 +1,4 @@
+Story
+Player Start
+Player Starts at the GEL (Garage Elevator Landing) 
+Meets an Ambassador (Emil)
