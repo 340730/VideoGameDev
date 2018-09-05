@@ -2,3 +2,11 @@ Story
 Player Start
 Player Starts at the GEL (Garage Elevator Landing) 
 Meets an Ambassador (Emil)
+player is lead to Abby's Dinning area (east dinning)
+  path:
+    GEL->
+    Skybridge->
+    Skybridge divider between NRB (North resource building) and building 10->
+    turning towards NRB entering the fork between Building 11 and Building 12->
+    turning towards building 11->
+    building 11->
