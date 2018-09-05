@@ -1,12 +1,29 @@
-Story
+
+NAME //name of the game
+
+Start:
+opening Cutscene
 Player Start
 Player Starts at the GEL (Garage Elevator Landing) 
+garages 
 Meets an Ambassador (Emil)
 player is lead to Abby's Dinning area (east dinning)
-  path:
+->Cafeteria
+path:
     GEL->
     Skybridge->
     Skybridge divider between NRB (North resource building) and building 10->
     turning towards NRB entering the fork between Building 11 and Building 12->
     turning towards building 11->
     building 11->
+    book store front->
+    Abby's entrance->
+    east dining entrance->
+    east dining->
+    ->Cafeteria
+End_Path;
+---> duck incident
+
+
+  
+
